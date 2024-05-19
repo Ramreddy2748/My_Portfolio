@@ -1,5 +1,6 @@
-<img width="305"  src="https://github.com/Ramreddy2748/My_Portfolio/assets/139142874/dd8c714c-fed6-4b3f-a8b1-eedad397337a">
-<img width="305" src="https://github.com/Ramreddy2748/My_Portfolio/assets/139142874/a4b23271-25f6-485a-839f-60e97d57c7d2">
+
+![image](https://github.com/Ramreddy2748/My_Portfolio/assets/139142874/756fb0e1-3c7c-4fe2-b361-b2ce2082aadc)
+<img width="325" src="https://github.com/Ramreddy2748/My_Portfolio/assets/139142874/5d8e918b-f551-490d-b2b1-e25de798d3c1">
 
 
 **PERSONAL PORTFOLIO**
